@@ -1,0 +1,39 @@
+{
+	"name": "ra-autumn",
+	"displayName": "Ra Autumn",
+	"description": "Here is the best theme for your eye care!",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.30.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ra Autumn",
+				"uiTheme": "vs",
+				"path": "./themes/ra-autumn.json"
+			}
+		]
+	},
+	"publisher": "rahmanyerli",
+	"author": {
+		"name": "Rahman Yerli"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "GitHub",
+		"url": "https://github.com/rahmanyerli/ra-autumn"
+	},
+	"icon": "images/ra.png",
+	"keywords": [
+		"ra autumn",
+		"raautumn",
+		"ra-autumn",
+		"ra autumn theme",
+		"theme",
+		"ra"
+	]
+}

@@ -1,10 +1,10 @@
 {
 	"name": "ra-autumn",
-	"displayName": "Ra Autumn",
+	"displayName": "Ra Autumn Light Theme",
 	"description": "Here is the best theme for your eye care!",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"engines": {
-		"vscode": "^1.30.0"
+		"vscode": "^1.39.0"
 	},
 	"categories": [
 		"Themes"
@@ -12,7 +12,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Ra Autumn",
+				"label": "Ra Autumn Light Theme",
 				"uiTheme": "vs",
 				"path": "./themes/ra-autumn.json"
 			}
@@ -29,6 +29,7 @@
 	},
 	"icon": "images/ra.png",
 	"keywords": [
+		"light theme",
 		"ra autumn",
 		"raautumn",
 		"ra-autumn",

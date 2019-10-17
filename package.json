@@ -2,7 +2,7 @@
 	"name": "ra-autumn",
 	"displayName": "Ra Autumn Light Theme",
 	"description": "Here is the best theme for your eye care!",
-	"version": "2.1.0",
+	"version": "2.2.0",
 	"engines": {
 		"vscode": "^1.39.0"
 	},
